@@ -6,13 +6,13 @@ This was one of my first personal projects in Swift. This project uses core conc
 ## Demo
 Here is what the overall game looks like
 
-![Demo game](assets/demo/IMG_1034.png) 
+![Demo game](assets/demo/IMG_1034.PNG) 
 
 Here is the user winning
 
-![Demo game](assets/demo/IMG_1035.png) 
+![Demo game](assets/demo/IMG_1035.PNG) 
 
 
 And here is what happens when the user busts
 
-![Demo game](assets/demo/IMG_1036.png) 
+![Demo game](assets/demo/IMG_1036.PNG) 

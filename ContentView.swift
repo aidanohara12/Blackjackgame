@@ -141,7 +141,7 @@ struct ContentView: View {
             .navigationTitle("BlackJackGo")
             .foregroundStyle(.white)
             .frame(maxWidth: .infinity, maxHeight: .infinity)
-            .background(Image("9999520"))
+            .background(Image("BlackJackTable"))
             .toolbar {
 //                if !signedIn {
 //                    Button("Sign In") {

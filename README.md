@@ -6,7 +6,7 @@ This was one of my first personal projects in Swift. This project uses core conc
 ## Demo
 Here is what the overall game looks like
 
-![Demo game](assets/demo/IMG_1034.PNG | width=100) 
+![Demo game](assets/demo/IMG_1034.PNG | width="100") 
 
 Here is the user winning
 

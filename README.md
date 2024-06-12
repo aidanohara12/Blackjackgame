@@ -10,9 +10,9 @@ Here is what the overall game looks like
 
 Here is the user winning
 
-![Demo game](assets/demo/IMG_1035.PNG) 
+<img src="assets/demo/IMG_1035.PNG" width="200">
 
 
 And here is what happens when the user busts
 
-![Demo game](assets/demo/IMG_1036.PNG) 
+<img src="assets/demo/IMG_1036.PNG" width="200">
